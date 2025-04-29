@@ -2,10 +2,10 @@ This repository contains my personal solutions to problems from https://projecte
 
 The goal of this project is to:
 
-Improve my problem-solving and algorithmic thinking skills.
+-Improve my problem-solving and algorithmic thinking skills.
 
-Strengthen my understanding of mathematics and number theory.
+-Strengthen my understanding of mathematics and number theory.
 
-Practice writing clean, efficient, and well-documented code.
+-Practice writing clean, efficient, and well-documented code.
 
 Feel free to explore the solutions, share feedback, or try solving the problems yourself.
