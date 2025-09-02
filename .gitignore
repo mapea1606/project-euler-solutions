@@ -1,0 +1,31 @@
+# Compiled files
+*.pyc
+*.o
+*.out
+*.exe
+*.so
+*.a
+*.dll
+
+# Build system files
+build/
+dist/
+.idea/
+.vscode/
+
+# Environment files
+.venv/
+venv/
+env/
+.env
+
+# Text editor and system files
+*.swp
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
