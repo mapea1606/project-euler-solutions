@@ -1,4 +1,4 @@
-# Project Euler Solutions (Python)
+# Project Euler Solutions
 
 This repository contains my personal solutions to the problems from [Project Euler](https://projecteuler.net/).
 
