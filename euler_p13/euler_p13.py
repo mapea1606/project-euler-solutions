@@ -1,3 +1,8 @@
+# Problem 13
+
+# Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
+# You can see the number in the euler_p13.txt file.
+
 lectura = open("euler_p13.txt","r")
 
 # leer = lectura.read().strip()
