@@ -20,4 +20,15 @@ for vector in matriz:
 for elem in matriz:
     print(elem)
 
+cuartetas = []
+vector = matriz[0]
+i = 0
+while i <= len(vector) - 4:
+    cuartetas.append(vector[i:i+4])
+    #print(vector[i:i+4])
+    i += 1
+
+for elem in cuartetas:
+    print(elem)
+
 lectura.close()
