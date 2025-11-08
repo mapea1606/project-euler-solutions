@@ -4,19 +4,20 @@ lectura = open("euler_p11.txt","r")
 leer = lectura.read().strip()
 
 matriz = []
-vector = []
 
 i = 0
 while i < len(leer):
     matriz = leer.split("\n")
     i += 1
 
+for i in range(len(matriz)):
+    matriz[i] = matriz[i].split(" ")
+
+for vector in matriz:
+    for i in range(len(vector)):
+        vector[i] = int(vector[i])
+
 for elem in matriz:
-    vector = elem.split(" ")
-    print(vector)
-
-
-print(len(leer))
-print(leer)
+    print(elem)
 
 lectura.close()
